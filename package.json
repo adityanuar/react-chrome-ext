@@ -1,0 +1,19 @@
+{
+  "name": "react-chrome-ext",
+  "version": "1.0.0",
+  "description": "chrome ext in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityanuar/react-chrome-ext.git"
+  },
+  "author": "Adit",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adityanuar/react-chrome-ext/issues"
+  },
+  "homepage": "https://github.com/adityanuar/react-chrome-ext#readme"
+}

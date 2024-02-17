@@ -4,7 +4,7 @@
   "description": "chrome ext in react",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --watch --progress --config webpack.config.js"
+    "start": "webpack --progress --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/adityanuar/react-chrome-ext#readme",
   "devDependencies": {
+    "copy-webpack-plugin": "^12.0.2",
+    "html-webpack-plugin": "^5.6.0",
     "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.3",
     "webpack": "^5.90.2",
